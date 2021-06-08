@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="smartphone" width="11.984" height="19.974" viewBox="0 0 11.984 19.974">
+    <defs>
+        <style>
+            .cls-1{fill:#4a4a4a}
+        </style>
+    </defs>
+    <g id="Group_5" transform="translate(5.326 1.664)">
+        <g id="Group_4">
+            <path id="Path_20" d="M241.43 42.667h-2a.5.5 0 1 0 0 1h2a.5.5 0 0 0 0-1z" class="cls-1" transform="translate(-238.933 -42.667)"/>
+        </g>
+    </g>
+    <g id="Group_7">
+        <g id="Group_6">
+            <path id="Path_21" d="M112.387 0H104.4a2 2 0 0 0-2 2v15.976a2 2 0 0 0 2 2h7.989a2 2 0 0 0 2-2V2a2 2 0 0 0-2.002-2zm1 17.976a1 1 0 0 1-1 1H104.4a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h7.989a1 1 0 0 1 1 1z" class="cls-1" transform="translate(-102.4)"/>
+        </g>
+    </g>
+    <g id="Group_9" transform="translate(4.993 16.312)">
+        <g id="Group_8">
+            <circle id="Ellipse_3" cx=".999" cy=".999" r=".999" class="cls-1"/>
+        </g>
+    </g>
+    <g id="Group_11" transform="translate(3.662 1.664)">
+        <g id="Group_10">
+            <circle id="Ellipse_4" cx=".499" cy=".499" r=".499" class="cls-1"/>
+        </g>
+    </g>
+</svg>
